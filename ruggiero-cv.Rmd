@@ -41,7 +41,7 @@ urlcolor: joeblue
 
 # Publications
 
-| "[Preventive war and sovereign debt](https://journals.sagepub.com/doi/full/10.1177/07388942211024947)" (with Colin Krainin, Kristopher Ramsay, and Bella Wang) $\vspace{-.3em}$ 
+| "[Preventive war and sovereign debt](https://journals.sagepub.com/doi/full/10.1177/07388942211024947)" with Colin Krainin, Kristopher Ramsay, and Bella Wang $\vspace{-.3em}$ 
 
 |       *Conflict Management and Peace Science*, 2021 $\vspace{-.3em}$ 
 
@@ -59,7 +59,7 @@ urlcolor: joeblue
 
 |       Presented to Princeton IR Graduate Research Seminar (Spring 2020) $\vspace{.3em}$ 
 
-| "Some for the Price of One: Vote Buying on a Network" (with Perry Carter) $\vspace{-.3em}$ 
+| "Some for the Price of One: Vote Buying on a Network" with Perry Carter $\vspace{-.3em}$ 
 
 |       Presented to Princeton Political Economy Research Seminar (Fall 2021)
 
@@ -79,7 +79,7 @@ urlcolor: joeblue
 
 Research Assistant for Matias Iaryczower, *Princeton University* \hfill Summer 2020
 
-Research Assistant for Kris Ramsay, *Princeton University* \hfill Summer 2019
+Research Assistant for Kristopher Ramsay, *Princeton University* \hfill Summer 2019
 
 Financial Analyst, Structured Finance, *DBRS (Morningstar)* \hfill 2015--2017
 
