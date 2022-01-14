@@ -1,0 +1,120 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: ../ruggiero-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Joseph J. Ruggiero
+
+jobtitle: "Ph.D. Candidate at Princeton University"
+# address: "300 Fisher Hall, Princeton, NJ 08544"
+fontawesome: yes
+email: jruggiero@princeton.edu
+github: GitHub
+twitter: Twitter
+#osf: "Enter 5 digit osf string here"
+# phone: "+353 1 408 4800"
+web: josephjruggiero.com
+updated: no
+
+# keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: joeblue
+urlcolor: joeblue
+---
+
+# Education
+
+| [*Princeton University*, Ph.D., Department of Politics](https://politics.princeton.edu) \hfill exp. 2023
+
+|       Completed comprehensive exams in Formal Theory and Quantitative Analysis, \newline $~~~~~~$ International Relations, and Political Economy (joint with Department of Economics)
+
+| [*Princeton University*, M.A., Department of Politics](https://politics.princeton.edu) \hfill 2020
+
+| [*Marist College*, B.S. *magna cum laude*, School of Management](https://marist.edu) \hfill 2014
+
+
+# Publications
+
+| "[Preventive war and sovereign debt](https://journals.sagepub.com/doi/full/10.1177/07388942211024947)" (with Colin Krainin, Kristopher Ramsay, and Bella Wang) $\vspace{-.3em}$ 
+
+|       *Conflict Management and Peace Science*, 2021 $\vspace{-.3em}$ 
+
+|       [Preprint version](https://josephjruggiero.com/pdfs/wardebt.pdf), [Supplementary materials](https://josephjruggiero.com/pdfs/wardebt-supp.pdf)
+
+# Working Papers
+
+| "Bargaining, War, and Cooperation in the Long Run" $\vspace{-.3em}$ 
+
+|       Presented to Princeton IR Graduate Research Seminar (Spring 2021) $\vspace{.3em}$ 
+
+| "Economic Growth in the Shadow of Power" $\vspace{.3em}$ 
+
+| "Nation Persuasion: Political Regimes Under Influence" $\vspace{-.3em}$ 
+
+|       Presented to Princeton IR Graduate Research Seminar (Spring 2020) $\vspace{.3em}$ 
+
+| "Some for the Price of One: Vote Buying on a Network" (with Perry Carter) $\vspace{-.3em}$ 
+
+|       Presented to Princeton Political Economy Research Seminar (Fall 2021)
+
+
+# Teaching 
+
+[Political Economy (POL 349 Undergrad)](https://registrar.princeton.edu/course-offerings/course-details?term=1212&courseid=009582), *Princeton University*, Preceptor for Germán Gieczewski
+
+[Formal Political Analysis I (POL 575 Grad)](https://registrar.princeton.edu/course-offerings/course-details?term=1224&courseid=005438), *Princeton University*, Preceptor for Gleason Judd
+
+[Formal Political Analysis II (POL 576 Grad)](https://registrar.princeton.edu/course-offerings/course-details?term=1222&courseid=005439), *Princeton University*, Preceptor for Germán Gieczewski
+
+[Investment: Equities (BUS 426 Undergrad)](https://www.marist.edu/management/investment-center), *Marist College*, T.A. for Brian Haughey
+
+
+# Work Experience
+
+Research Assistant for Matias Iaryczower, *Princeton University* \hfill Summer 2020
+
+Research Assistant for Kris Ramsay, *Princeton University* \hfill Summer 2019
+
+Financial Analyst, Structured Finance, *DBRS (Morningstar)* \hfill 2015--2017
+
+Audit Associate, Financial Institutions, *KPMG* \hfill 2014--2015
+
+
+# Software
+
+R, python, MATLAB, Stata, julia
+
+
+# Fellowships and Honors
+
+[Quantitative and Analytical Political Science (Q-APS)](https://qaps.princeton.edu) Fellowship, *Princeton University* \hfill 2020--present
+
+[Niehaus Center for Globalization and Governance](https://niehaus.princeton.edu) Fellowship, *Princeton University* \hfill 2018--2019
+
+[Beta Gamma Sigma](https://www.betagammasigma.org/home), International Business Society \hfill 2014
+
+[Beta Alpha Psi](https://www.bap.org/), International Honor Organization for Finance Students \hfill 2012
+
+[Presidential Scholarship](https://www.marist.edu/admission/financial-aid/merit-scholarships), *Marist College*'s highest merit scholarship \hfill 2010--2014
+
+
+# Other Qualifications
+
+Completed all CPA exams, [National Association of State Boards of Accountancy](https://nasba.org/) (not licensed)
+
+Completed the Level I CFA (Chartered Financial Analyst) exam, [*CFA Institute*](https://www.cfainstitute.org/)
+
+
+# References
+
+Kristopher Ramsay, Professor of Politics, *Princeton University* (kramsay@princeton.edu)
+
+Matias Iaryczower, Professor of Politics, *Princeton University* (miaryc@princeton.edu)
+
+Germán Gieczewski, Assistant Professor of Politics, *Princeton University* (germang@princeton.edu)
