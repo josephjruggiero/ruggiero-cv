@@ -43,43 +43,42 @@ urlcolor: joeblue
 
 | "[Preventive war and sovereign debt](https://journals.sagepub.com/doi/full/10.1177/07388942211024947)" with Colin Krainin, Kristopher Ramsay, and Bella Wang $\vspace{-.3em}$ 
 
-|       *Conflict Management and Peace Science*, 2021 $\vspace{-.3em}$ 
-
-|       [Preprint version](https://josephjruggiero.com/pdfs/wardebt.pdf), [Supplementary materials](https://josephjruggiero.com/pdfs/wardebt-supp.pdf)
+|       *Conflict Management and Peace Science*. 2022; 39(5):487--519. \hfill ([Preprint](https://josephjruggiero.com/pdfs/wardebt.pdf), [Supplement](https://josephjruggiero.com/pdfs/wardebt-supp.pdf))
 
 # Working Papers
 
 | "Bargaining, War, and Cooperation in the Long Run" $\vspace{-.3em}$ 
 
-|       Presented to Princeton IR Graduate Research Seminar (Spring 2021) $\vspace{.3em}$ 
+|       Presented to: MPSA 2022 $\vspace{.3em}$ 
 
 | "Economic Growth in the Shadow of Power" $\vspace{.3em}$ 
 
-| "Nation Persuasion: Political Regimes Under Influence" $\vspace{-.3em}$ 
-
-|       Presented to Princeton IR Graduate Research Seminar (Spring 2020) $\vspace{.3em}$ 
+| "Nation Persuasion: Political Regimes Under Influence" $\vspace{.3em}$ 
 
 | "Some for the Price of One: Vote Buying on a Network" with Perry Carter $\vspace{-.3em}$ 
 
-|       Presented to Princeton Political Economy Research Seminar (Fall 2021)
-
+|       Presented to: MPSA 2022, Comparative Politics and Formal Theory Conference 2022 (Harvard)
 
 # Teaching 
 
-[Political Economy (POL 349 Undergrad)](https://registrar.princeton.edu/course-offerings/course-details?term=1212&courseid=009582), *Princeton University*, Preceptor for Germán Gieczewski
+\vspace{-2.1em}\hfill ([Evalutions](https://josephjruggiero.com/pdfs/student_evals.pdf))
+
+\vspace{.4em}[Political Economy (POL 349 Undergrad)](https://registrar.princeton.edu/course-offerings/course-details?term=1212&courseid=009582), *Princeton University*, Preceptor for Germán Gieczewski
 
 [Formal Political Analysis I (POL 575 Grad)](https://registrar.princeton.edu/course-offerings/course-details?term=1224&courseid=005438), *Princeton University*, Preceptor for Gleason Judd
 
 [Formal Political Analysis II (POL 576 Grad)](https://registrar.princeton.edu/course-offerings/course-details?term=1222&courseid=005439), *Princeton University*, Preceptor for Germán Gieczewski
 
-[Investment: Equities (BUS 426 Undergrad)](https://www.marist.edu/management/investment-center), *Marist College*, T.A. for Brian Haughey
+[Investment: Equities (BUS 426 Undergrad)](https://www.marist.edu/management/investment-center), *Marist College*, Assistant to Brian Haughey
 
 
 # Work Experience
 
-Research Assistant for Matias Iaryczower, *Princeton University* \hfill Summer 2020
+Quantitative and Analytical Models Consultant, *Princeton University* \hfill 2022--present
 
-Research Assistant for Kristopher Ramsay, *Princeton University* \hfill Summer 2019
+Research Assistant for Matias Iaryczower, *Princeton University* \hfill 2022, 2020
+
+Research Assistant for Kristopher Ramsay, *Princeton University* \hfill 2019
 
 Financial Analyst, Structured Finance, *DBRS (Morningstar)* \hfill 2015--2017
 
@@ -88,12 +87,16 @@ Audit Associate, Financial Institutions, *KPMG* \hfill 2014--2015
 
 # Software
 
-R, python, MATLAB, Stata, julia
+R, Python, MATLAB, Stata, Julia
 
 
 # Fellowships and Honors
 
-[Quantitative and Analytical Political Science (Q-APS)](https://qaps.princeton.edu) Fellowship, *Princeton University* \hfill 2020--present
+[Quantitative and Analytical Political Science](https://qaps.princeton.edu) Fellowship, *Princeton University* \hfill 2020--present
+
+[Oskar Morgenstern Fellowship](https://https://asp.mercatus.org/content/oskar-morgenstern-fellowship), Mercatus Center at *George Mason University* \hfill 2022--present
+
+William S. Carpenter Fellowship, *Princeton University*  \hfill 2021--2022
 
 [Niehaus Center for Globalization and Governance](https://niehaus.princeton.edu) Fellowship, *Princeton University* \hfill 2018--2019
 
@@ -103,6 +106,10 @@ R, python, MATLAB, Stata, julia
 
 [Presidential Scholarship](https://www.marist.edu/admission/financial-aid/merit-scholarships), *Marist College*'s highest merit scholarship \hfill 2010--2014
 
+
+# Service
+
+Reviewer for *Quarterly Journal of Political Science*
 
 # Other Qualifications
 
@@ -118,3 +125,5 @@ Kristopher Ramsay, Professor of Politics, *Princeton University* (kramsay@prince
 Matias Iaryczower, Professor of Politics, *Princeton University* (miaryc@princeton.edu)
 
 Germán Gieczewski, Assistant Professor of Politics, *Princeton University* (germang@princeton.edu)
+
+Gleason Judd, Assistant Professor of Politics, *Princeton University* (gleason.judd@princeton.edu)
